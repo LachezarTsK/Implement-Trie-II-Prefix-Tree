@@ -1,4 +1,6 @@
 
+using namespace std;
+
 class TrieNode {
 public:
 	int numberOfSharedPrefixesForThisNode = 0;
